@@ -1,0 +1,16 @@
+{
+  "name": "shoooping",
+  "version": "1.0.0",
+  "description": "An Ecommerce shopping site FrondEnd",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecommerce",
+    "front-end",
+    "shopping"
+  ],
+  "author": "Satish Kumar Verma",
+  "license": "ISC"
+}
